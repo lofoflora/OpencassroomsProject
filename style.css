@@ -1,0 +1,22 @@
+.bleu { color: rgb(42, 44, 199) }
+.vert { color:#489429}
+h1 {font-family: 'Mynerve', cursive; 
+    font-size: 3em;
+    text-align: center;
+    background-color:#f797ef ;
+}
+p { font-size: 2em;
+font-family: Arial, Helvetica, sans-serif;
+text-align: justify ;
+color: black;}
+
+.gras { font-weight: 700;}
+body {
+    background-image: url(fond_cerisier.jpg);
+    background-size: cover;
+  }
+.droite {justify-content: right; }
+
+h1, p {
+  color: #ff1493;
+}
